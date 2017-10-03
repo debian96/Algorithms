@@ -1,5 +1,5 @@
 
-public class Heap {
+class Heap {
 	
 
 	private static void Max_Heapify(int[] arr, int n, int i) {
