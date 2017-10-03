@@ -1,7 +1,5 @@
+class Insertion {
 
-public class Insertion {
-	
-	
 	public static void Insert_Sort(int A[]){
 		
 		int n = A.length;
