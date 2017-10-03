@@ -1,6 +1,5 @@
 
-class Bubble {
-	
+class Bubble {	
 	public static void Bubble_Sort(int A[]){
 		
 		int n = A.length;
