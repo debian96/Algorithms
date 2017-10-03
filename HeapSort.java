@@ -1,8 +1,7 @@
 
 public class Heap {
 	
-	
-	
+
 	private static void Max_Heapify(int[] arr, int n, int i) {
 		int l = 2*i+1;
 		int r = 2*i+2;
@@ -33,8 +32,7 @@ public class Heap {
 			arr[0] = arr[i];
 			arr[i] = temp;
 			
-			Max_Heapify(arr, i, 0);
-			
+			Max_Heapify(arr, i, 0);	
 		}
 	}
 	
