@@ -1,5 +1,5 @@
 
-public class Selection {
+class Selection {
 	
 	
 	public static void Selection_Sort(int A[]){
