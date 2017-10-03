@@ -35,5 +35,4 @@ class Bubble {
 			System.out.print(" ");
 		}
 	}
-	
 }
