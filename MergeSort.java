@@ -1,5 +1,4 @@
-
-public class Merge {
+ class Merge {
 
 	private static void Merge(int[] arr, int p, int q, int r) {
 		int n1,n2;
